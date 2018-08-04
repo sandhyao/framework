@@ -29,7 +29,7 @@ public class CreateLead extends Annotations{
 	  String[][] data = new String[2][3];
 	  data[0][0] = "TCS";
 	  data[0][1] = "sandhya";
-	  data[0][2] ="Ram";
+	  data[0][2] ="Oli";//changed from ram to oli
 	  
 	  data[1][0] = "TestLeaf";
 	  data[1][1] = "Gayatri";
